@@ -1,4 +1,5 @@
 # Full_stack_Email_Otp_based_Frontend
+# Live Demo : https://full-stack-email-otp-based-frontend.vercel.app
 # Full-Stack Email OTP Authentication App with Blog Feature
 
 This project is a secure, full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack. It features email-based OTP authentication without traditional passwords and includes a blogging platform.
